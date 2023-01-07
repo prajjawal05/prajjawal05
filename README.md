@@ -20,8 +20,8 @@ I'm **Prajjawal Agarwal**, a Graduate Student in Computer Science at **Stony Bro
 
 <h3> 🌱 Challenges that I’m currently challenging myself: </h3>
 
-- 🔭 &nbsp; Read:newspaper: engineering articles daily, and novels.
-- ✍️ &nbsp; Make an habit to Workout:weight_lifting_man.
+- 🔭 &nbsp; Read :newspaper: engineering articles daily, and novels.
+- ✍️ &nbsp; Make an habit to Workout:weight_lifting_man: .
 
 <h3>🛠 Tech Stack</h3>
 
