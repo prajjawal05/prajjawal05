@@ -7,7 +7,7 @@ I'm **Prajjawal Agarwal**, a Graduate Student in Computer Science at **Stony Bro
 
 <h3> 👨🏻‍💻 Talking about Personal Stuffs: </h3>
 
-- 🔭 &nbsp; I’m currently trying to contribute to open source and build a personal website.
+- 🔭 &nbsp; I’m currently trying to build a personal website and contribute to open source.
 - 🎓 &nbsp; Studying Masters of Science in Computer Science at Stony Brook University.
 - 💼 &nbsp; Have an experience of working as a full stack web developer for 3 years.
 - 🌱 &nbsp; Enthusiast in the area of distributed systems.
