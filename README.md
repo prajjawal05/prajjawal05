@@ -29,7 +29,7 @@ I'm **Prajjawal Agarwal**, a Graduate Student in Computer Science at **Stony Bro
 - 🌐 &nbsp; JavaScript/Typescript | React | Relay | Redux | Graphql
 - 🛢 &nbsp; MySQL | Couchbase | DynamoDB | ElasticSearch | PostgreSQL
 - 🔧 &nbsp; Git | Docker | Kubernetes | Amazon Web Services | gRPC
-- 🖥 &nbsp; Distributed Systems | Operating System | Data Structures and Algorithms | Database Management Systems | Computer Networks
+- 📚 &nbsp; Distributed Systems | Operating System | Data Structures and Algorithms | Database Management Systems | Computer Networks
 
 <h3>📈 Stats </h3>
 
