@@ -1,7 +1,14 @@
-<h2> Hey there! I'm Prajjawal. <img src="https://github.com/prajjawal05/prajjawal05/blob/main/wave.gif" width="25"></h2>
+<h2> Hey there! <img src="https://github.com/prajjawal05/prajjawal05/blob/main/wave.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/prajjawal05/prajjawal05/main/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<br />
+<br />
+
+I'm **Prajjawal Agarwal**, a Graduate Student in Computer Science at **Stony Brook University**, NY, USA and a past **Software Developer Engineer - 2** 🚀 from India.
+
+<br />
+
+<h3> 👨🏻‍💻 Talking about Personal Stuffs: </h3>
 
 - 🔭 &nbsp; I’m currently trying to contribute to open source and build a personal website.
 - 🎓 &nbsp; Studying Masters of Science in Computer Science at Stony Brook University.
