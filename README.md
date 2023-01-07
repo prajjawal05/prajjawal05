@@ -8,7 +8,7 @@
 - 💼 &nbsp; Have an experience of working as a full stack web developer for 3 years.
 - 🌱 &nbsp; Enthusiast in the area of distributed systems.
 - ✍️ &nbsp; Watching Anime and checking out latest system design trends as hobbies/side hustles.
-- [![SpotifyLogo](https://cdn3.emoji.gg/emojis/SpotifyLogo.png)](https://emoji.gg/emoji/SpotifyLogo) &nbsp; Music keeps me going.
+- <img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="25"></h2> &nbsp; Music keeps me going.
 
 <h3>🛠 Tech Stack</h3>
 
