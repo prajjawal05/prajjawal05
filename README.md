@@ -42,5 +42,5 @@ I'm **Prajjawal Agarwal**, a Graduate Student in Computer Science at **Stony Bro
 &nbsp; <a href="https://www.instagram.com/prajjawal05/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
 
-#### **Visitor Count**
+#### **Visitor Count** (Self Obsessed 🙈)
  ![Visitor Count](https://profile-counter.glitch.me/{prajjawal05}/count.svg)
