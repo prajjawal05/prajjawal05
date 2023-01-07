@@ -18,7 +18,7 @@ I'm **Prajjawal Agarwal**, a Graduate Student in Computer Science at **Stony Bro
 - 🔭 &nbsp; Building a personal website.
 - ✍️ &nbsp; Contribute to open source.
 
-<h3> 🌱 Challenges that I’m currently challenging myself: </h3>
+<h3> 🌱 Habits that I’m trying to develop: </h3>
 
 - 🔭 &nbsp; Read :newspaper: engineering articles daily, and novels.
 - ✍️ &nbsp; Make an habit to Workout:weight_lifting_man: .
