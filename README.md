@@ -1,6 +1,5 @@
 <h2> Hey there! <img src="https://github.com/prajjawal05/prajjawal05/blob/main/wave.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/prajjawal05/prajjawal05/main/gif3.gif" width="500"/>
-
 <br />
 
 I'm **Prajjawal Agarwal**, a Graduate Student in Computer Science at **Stony Brook University**, NY, USA and a past **Software Developer Engineer - 2** 🚀 from India.
