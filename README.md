@@ -2,7 +2,7 @@
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/prajjawal05/prajjawal05/main/gif3.gif" width="500"/> -->
 <br />
 
-I'm **Prajjawal Agarwal**, a Graduate Student in Computer Science at **Stony Brook University**, NY, USA and a past **Software Developer Engineer - 2** 🚀 from India.
+I'm **Prajjawal Agarwal**, a Graduate Student in Computer Science at **Stony Brook University**, NY, USA. Currently a Software Engineer Intern at MarketAxess and a past **Software Developer Engineer - 2** 🚀 from India.
 <br />
 
 <h3> 👨🏻‍💻 Talking about Personal Stuffs: </h3>
@@ -15,7 +15,7 @@ I'm **Prajjawal Agarwal**, a Graduate Student in Computer Science at **Stony Bro
 
 <h3> 💼 Things that I'm currently working on: </h3>
 
-- 🔭 &nbsp; Building a personal website.
+- 🔭 &nbsp; Gain some certifications
 - ✍️ &nbsp; Contribute to open source.
 
 <h3> 🌱 Habits that I’m trying to develop: </h3>
@@ -27,8 +27,8 @@ I'm **Prajjawal Agarwal**, a Graduate Student in Computer Science at **Stony Bro
 
 - 💻 &nbsp; Python | GoLang | Java | C++ | Node.js
 - 🌐 &nbsp; JavaScript/Typescript | React | Relay | Redux | Graphql
-- 🛢 &nbsp; MySQL | Couchbase | DynamoDB | ElasticSearch | PostgreSQL
-- 🔧 &nbsp; Git | Docker | Kubernetes | Amazon Web Services | gRPC
+- 🛢 &nbsp; MySQL | Couchbase | DynamoDB | ElasticSearch | PostgreSQL | Redis
+- 🔧 &nbsp; Git | Docker | Kubernetes | Amazon Web Services | Azure | gRPC | Kafka
 - 📚 &nbsp; Distributed Systems | Operating System | Data Structures and Algorithms | Database Management Systems | Computer Networks
 
 <h3> 🤝🏻 Connect with Me </h3>
